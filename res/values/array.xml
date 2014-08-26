@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="design_patterns_names">
+        <item>A. Singleton</item>
+        <item>B. Abstract Factory</item>
+        <item>C. Factory Method</item>
+        <item>D. Builder</item>
+        <item>E. Prototype</item>
+        <item>F. Iterator</item>
+        <item>G. Observer</item>
+        <item>H. Template Method</item>
+        <item>I. Command</item>
+        <item>J. State</item>
+        <item>K. Strategy</item>
+        <item>L. Chain of Responsibility</item>
+        <item>M. Mediator</item>
+        <item>N. Visitor</item>
+        <item>O. Interpreter</item>
+        <item>P. Memento</item>
+        <item>Q. Composite</item>
+        <item>R. Facade</item>
+        <item>S. Proxy</item>
+        <item>T. Adapter</item>
+        <item>U. Decrator</item>
+        <item>V. Bridge</item>
+        <item>W. Flyweight</item>
+    </string-array>
+</resources>
