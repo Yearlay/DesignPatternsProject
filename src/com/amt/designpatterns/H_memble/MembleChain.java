@@ -23,6 +23,16 @@ public abstract class MembleChain {
     
     protected String mOrder;
     
+    protected JobImpl mJobImpl;
+    
+    public JobImpl getmJobImpl() {
+        return mJobImpl;
+    }
+
+    public void setmJobImpl(JobImpl mJobImpl) {
+        this.mJobImpl = mJobImpl;
+    }
+
     public MembleChain(Mediator mediator) {
         mAssistant = mediator;
     }
